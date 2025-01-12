@@ -14,7 +14,7 @@
 
 - Highly skilled in: **Python**, **Javascript**, **Bash**, **Powershell**, **WEB-FrontEnd**, and **Draw** 📓
 
-- Languages: Spanish, English and Japanese
+- Languages: **Spanish**, **English** and **Japanese** (little)
 
 
 ## 😺 Repositories 
