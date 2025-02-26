@@ -36,8 +36,6 @@
 - I have a deep **passion for landscapes** and **Japanese culture**.
 
 </div>
-</br>
-</br>
 
 ## <(￣ c￣)y▂ξ Github Progress
 
