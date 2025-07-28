@@ -27,11 +27,11 @@
 <img src="https://i.ibb.co/GkdwQhW/DENJI.jpg" alt="DENJI" width=200 border="0" align=left>
 <div align="left">
 
-- I love **anime**, **video games**, and **programming** in my free time.
+- I love learning **newtech**, and **programming** in my free time.
 
 - If I don't upload something, it's because I'm either **lazy** or **busy**.
 
-- I'm currently feeling a bit **lost and empty** on my path, but I'm focusing on **bringing new ideas** to my life and embracing what the future holds.
+- I'm currently feeling **loose** on my path, but I'm focusing on **bringing new ideas** to my life and embracing what the future holds.
 
 - I have a deep **passion for landscapes** and **Japanese culture**.
 
