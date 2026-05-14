@@ -64,7 +64,7 @@ Me gusta aprender cómo funcionan los sistemas por dentro, trabajar con **GNU/Li
 ## 🔗 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/XamRyo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samuel-anguita-guardia-3a0710384?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/XamRyo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/XamRyo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
